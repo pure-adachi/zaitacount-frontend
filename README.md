@@ -1,5 +1,7 @@
 # README
 
+https://pure-adachi.github.io/zaitacount-frontend/
+
 ## Quick Start
 
 ### Project Setup
