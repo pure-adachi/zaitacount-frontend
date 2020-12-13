@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zaitacount-frontend/static/css/main.c27540a2.chunk.css",
-    "main.js": "/zaitacount-frontend/static/js/main.8e8f193e.chunk.js",
-    "main.js.map": "/zaitacount-frontend/static/js/main.8e8f193e.chunk.js.map",
+    "main.js": "/zaitacount-frontend/static/js/main.4d677792.chunk.js",
+    "main.js.map": "/zaitacount-frontend/static/js/main.4d677792.chunk.js.map",
     "runtime-main.js": "/zaitacount-frontend/static/js/runtime-main.12848c77.js",
     "runtime-main.js.map": "/zaitacount-frontend/static/js/runtime-main.12848c77.js.map",
     "static/js/2.de79249e.chunk.js": "/zaitacount-frontend/static/js/2.de79249e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.12848c77.js",
     "static/js/2.de79249e.chunk.js",
     "static/css/main.c27540a2.chunk.css",
-    "static/js/main.8e8f193e.chunk.js"
+    "static/js/main.4d677792.chunk.js"
   ]
 }
