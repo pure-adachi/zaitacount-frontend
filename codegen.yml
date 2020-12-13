@@ -1,0 +1,9 @@
+schema: ${REACT_APP_SERVER_URL}/graphql
+documents:
+  - ./graphql/queries/*.graphql
+generates:
+  src/generated/graphql.tsx:
+    plugins:
+      - "typescript"
+      - "typescript-operations"
+      - "typescript-react-apollo"
