@@ -1,14 +1,12 @@
 import React from "react";
-import { useTestFieldQuery } from "../../../generated/graphql";
+import Frame from "../../templates/Frame";
 
 const Home = () => {
-  const { loading, data } = useTestFieldQuery();
-
-  if (loading) {
-    return <>Loading ...</>;
-  }
-
-  return <>{data?.testField}</>;
+  return (
+    <Frame>
+      <>Home</>
+    </Frame>
+  );
 };
 
 export default Home;
