@@ -1,0 +1,10 @@
+mutation signIn($loginid: String, $password: String) {
+  signIn(input: { loginid: $loginid, password: $password }) {
+    user {
+      accessToken {
+        token
+      }
+    }
+    result
+  }
+}

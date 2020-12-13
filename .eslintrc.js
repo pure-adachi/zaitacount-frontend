@@ -27,7 +27,8 @@ module.exports = {
       "error",
       { ignoreRestSiblings: true }
     ],
-    "@typescript-eslint/explicit-module-boundary-types": "off"
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "no-debugger": "off"
   },
   settings: {
     react: {
