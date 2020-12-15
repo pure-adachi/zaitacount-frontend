@@ -16,7 +16,7 @@ const Frame = ({ children }: Props) => {
   }
 
   if (data?.viewer) {
-    return <main className="container">{children}</main>;
+    return <>{children}</>;
   } else {
     return <Redirect to="/zaitacount-frontend/sign-in" />;
   }
