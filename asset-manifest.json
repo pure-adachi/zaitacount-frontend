@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zaitacount-frontend/static/css/main.5114e853.chunk.css",
-    "main.js": "/zaitacount-frontend/static/js/main.065021ea.chunk.js",
-    "main.js.map": "/zaitacount-frontend/static/js/main.065021ea.chunk.js.map",
+    "main.css": "/zaitacount-frontend/static/css/main.3aa91ddd.chunk.css",
+    "main.js": "/zaitacount-frontend/static/js/main.dd5da1aa.chunk.js",
+    "main.js.map": "/zaitacount-frontend/static/js/main.dd5da1aa.chunk.js.map",
     "runtime-main.js": "/zaitacount-frontend/static/js/runtime-main.12848c77.js",
     "runtime-main.js.map": "/zaitacount-frontend/static/js/runtime-main.12848c77.js.map",
-    "static/js/2.35b82a35.chunk.js": "/zaitacount-frontend/static/js/2.35b82a35.chunk.js",
-    "static/js/2.35b82a35.chunk.js.map": "/zaitacount-frontend/static/js/2.35b82a35.chunk.js.map",
+    "static/js/2.e1811e62.chunk.js": "/zaitacount-frontend/static/js/2.e1811e62.chunk.js",
+    "static/js/2.e1811e62.chunk.js.map": "/zaitacount-frontend/static/js/2.e1811e62.chunk.js.map",
     "index.html": "/zaitacount-frontend/index.html",
-    "static/css/main.5114e853.chunk.css.map": "/zaitacount-frontend/static/css/main.5114e853.chunk.css.map",
-    "static/js/2.35b82a35.chunk.js.LICENSE.txt": "/zaitacount-frontend/static/js/2.35b82a35.chunk.js.LICENSE.txt"
+    "static/css/main.3aa91ddd.chunk.css.map": "/zaitacount-frontend/static/css/main.3aa91ddd.chunk.css.map",
+    "static/js/2.e1811e62.chunk.js.LICENSE.txt": "/zaitacount-frontend/static/js/2.e1811e62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12848c77.js",
-    "static/js/2.35b82a35.chunk.js",
-    "static/css/main.5114e853.chunk.css",
-    "static/js/main.065021ea.chunk.js"
+    "static/js/2.e1811e62.chunk.js",
+    "static/css/main.3aa91ddd.chunk.css",
+    "static/js/main.dd5da1aa.chunk.js"
   ]
 }
