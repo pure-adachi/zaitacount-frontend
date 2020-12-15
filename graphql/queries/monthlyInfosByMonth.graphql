@@ -1,0 +1,12 @@
+query monthlyInfos($year: Int!, $month: Int!) {
+  monthlyInfos(year: $year, month: $month) {
+    workFromHomeCount
+    purchased
+    amount
+    lineUser {
+      fixedProfile {
+        name
+      }
+    }
+  }
+}

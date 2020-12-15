@@ -7,7 +7,11 @@ import SignIn from "./pages/SignIn";
 const App = () => {
   return (
     <Switch>
-      <Route exact path="/zaitacount-frontend/" component={Home} />
+      <Route
+        exact
+        path="/zaitacount-frontend/:year?/:month?"
+        component={Home}
+      />
       <Route exact path="/zaitacount-frontend/sign-in" component={SignIn} />
     </Switch>
   );
